@@ -1,5 +1,5 @@
 <?php
-$EM_CONF[$_EXTKEY] = [
+$EM_CONF[$_EXTKEY] = array (
   'title' => 'temp',
   'description' => 'temp',
   'category' => 'misc',
@@ -11,22 +11,30 @@ $EM_CONF[$_EXTKEY] = [
   'conflicts' => '',
   'priority' => '',
   'module' => '',
-  'state' => 'beta',
+  'state' => 'stable',
   'internal' => '',
   'uploadfolder' => 0,
   'createDirs' => '',
   'modify_tables' => '',
   'clearCacheOnLoad' => 0,
   'lockType' => '',
-  'version' => '0.0.0',
-  'constraints' => [
-    'depends' => [
+  'version' => '1.0.0',
+  'constraints' => 
+  array (
+    'depends' => 
+    array (
       'php' => '5.5.0-7.0.99',
       'typo3' => '7.6.0-8.4.99',
-    ],
-    'conflicts' => [],
-    'suggests' => [],
-  ],
-  'suggests' => [],
+    ),
+    'conflicts' => 
+    array (
+    ),
+    'suggests' => 
+    array (
+    ),
+  ),
+  'suggests' => 
+  array (
+  ),
   '_md5_values_when_last_written' => '',
-];
+);
