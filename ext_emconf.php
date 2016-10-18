@@ -1,0 +1,32 @@
+<?php
+$EM_CONF[$_EXTKEY] = [
+  'title' => 'temp',
+  'description' => 'temp',
+  'category' => 'misc',
+  'author' => 'FluidTYPO3 Team',
+  'author_email' => 'claus@namelesscoder.net',
+  'author_company' => '',
+  'shy' => '',
+  'dependencies' => '',
+  'conflicts' => '',
+  'priority' => '',
+  'module' => '',
+  'state' => 'beta',
+  'internal' => '',
+  'uploadfolder' => 0,
+  'createDirs' => '',
+  'modify_tables' => '',
+  'clearCacheOnLoad' => 0,
+  'lockType' => '',
+  'version' => '0.0.0',
+  'constraints' => [
+    'depends' => [
+      'php' => '5.5.0-7.0.99',
+      'typo3' => '7.6.0-8.4.99',
+    ],
+    'conflicts' => [],
+    'suggests' => [],
+  ],
+  'suggests' => [],
+  '_md5_values_when_last_written' => '',
+];
