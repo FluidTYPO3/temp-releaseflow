@@ -1,7 +1,7 @@
 <?php
 $EM_CONF[$_EXTKEY] = array (
   'title' => 'temp',
-  'description' => 'temp change something',
+  'description' => 'temp change something, yet another change',
   'category' => 'misc',
   'author' => 'FluidTYPO3 Team',
   'author_email' => 'claus@namelesscoder.net',
