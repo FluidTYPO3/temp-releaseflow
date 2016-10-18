@@ -1,0 +1,5 @@
+{
+    "require": {
+        "fluidtypo3/development": "dev-master"
+    }
+}
