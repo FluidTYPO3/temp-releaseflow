@@ -1,4 +1,10 @@
 {
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../fluidtypo3-development"
+        }
+    ],
     "require": {
         "fluidtypo3/development": "dev-master"
     }
