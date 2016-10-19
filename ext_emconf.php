@@ -1,7 +1,7 @@
 <?php
 $EM_CONF[$_EXTKEY] = array (
   'title' => 'temp',
-  'description' => 'temp change something, yet another change, and again, and again',
+  'description' => 'temp change something, yet another change, and again, and again, and again',
   'category' => 'misc',
   'author' => 'FluidTYPO3 Team',
   'author_email' => 'claus@namelesscoder.net',
@@ -11,7 +11,7 @@ $EM_CONF[$_EXTKEY] = array (
   'conflicts' => '',
   'priority' => '',
   'module' => '',
-  'state' => 'stable',
+  'state' => 'beta',
   'internal' => '',
   'uploadfolder' => 0,
   'createDirs' => '',
